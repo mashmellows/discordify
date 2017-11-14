@@ -25,7 +25,7 @@ Information
 Versions
 -----------
 
-  - Version 1.0 | 13/10/2017
+  - Version 1.0 | 15/11/2017
   ```
   ♦ Added
     - Discordify.py contains the most of the code that runs the Application. You can either run it via CMD or you can compile it into an exe using cx_freeze
