@@ -6,6 +6,7 @@ Requirements
 
 - Python 3.5 
 - Discord Token 
+- Windows Only (macOS and Linux WiP)
 
 
 Libraries
