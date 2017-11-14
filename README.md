@@ -1,3 +1,4 @@
+# Discordify
 ![logo](https://github.com/xurasky/Discordify/blob/master/icon.png "Logo")    
 
 Requirements 
