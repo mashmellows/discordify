@@ -35,4 +35,8 @@ Versions
     - token.txt, This file needs to have your Discord Token or it will return an error.
     - cx_FreezeEXECompile.bat, Click on this to compile the script into an exe.
     - Icon.ico, Icon file
+    
+  ♦ Know Issues
+    - Skipping songs too fast will Freeze the program. Current solution is to end the Discodify.exe process using the Task Manager.
+    - Will not work with 2STEP Verfication.
   ```  
