@@ -3,13 +3,13 @@ from cx_Freeze import setup, Executable
 import os
 
 includes = []
-include_files = [r'C:\Users\Xura\AppData\Local\Programs\Python\Python35\DLLs\tcl86t.dll',
-                 r'C:\Users\Xura\AppData\Local\Programs\Python\Python35\DLLs\tk86t.dll',
+include_files = [r'C:\Users\<User>\AppData\Local\Programs\Python\Python35\DLLs\tcl86t.dll',
+                 r'C:\Users\<User>\AppData\Local\Programs\Python\Python35\DLLs\tk86t.dll',
                  'token.txt',
                  'icon.ico']
 
-os.environ['TCL_LIBRARY'] = r'C:\Users\Xura\AppData\Local\Programs\Python\Python35\tcl\tcl8.6'
-os.environ['TK_LIBRARY'] = r'C:\Users\Xura\AppData\Local\Programs\Python\Python35\tcl\tk8.6'
+os.environ['TCL_LIBRARY'] = r'C:\Users\<User>\AppData\Local\Programs\Python\Python35\tcl\tcl8.6'
+os.environ['TK_LIBRARY'] = r'C:\Users\<User>\AppData\Local\Programs\Python\Python35\tcl\tk8.6'
 
 
 
