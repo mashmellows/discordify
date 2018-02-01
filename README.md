@@ -1,6 +1,12 @@
 # Discordify
 ![logo](https://github.com/xurasky/Discordify/blob/master/icon.png "Logo")    
 
+Deprecated 
+-----------
+
+- The functionality was added to Discord natively on the 02/02/2018.
+
+
 Requirements 
 -----------
 
